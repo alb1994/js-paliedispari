@@ -6,7 +6,11 @@ L’utente sceglie pari o dispari e inserisce un numero da 1 a 5. Generiamo un n
 
 
 [1]
-
+1 - creo input per l utente per inserire la stringa
+2 - creo una function che verifica se la parola è palindorma 
+3 - collego la stringa alla function
+4 - se è palindroma stampo "è palindroma"
+4 - se non è palindroma stampo "non è palindroma"
 
 
 [2]
